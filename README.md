@@ -1,2 +1,2 @@
-# El-jef
+# El-jefe
 conociendo la plataforma
